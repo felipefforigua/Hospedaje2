@@ -1,0 +1,26 @@
+<resources>
+    <!--Principal-->
+    <string name="app_name">Hospedaje2</string>
+    <string name="tvBienvenida">STHospedaje</string>
+    <string name="btnPersona">Registrar Persona</string>
+    <string name="btnTransaccion">Transacciones</string>
+
+    <!--Persona-->
+    <string name="tvTituloPersona">Regristro de Persona</string>
+    <string name="etNombres">Introduzca su Nombre</string>
+    <string name="etApellidos">Introduzca su Apellido</string>
+    <string name="etDocumento">Coloque su documento</string>
+    <string name="btnTransaccionP">Realizar Transacción</string>
+    <string name="btnVolver">Volver al Inicio</string>
+
+    <!--Transaccion-->
+    <string-array name="spDivisas">
+        <item>COP</item>
+        <item>USD</item>
+        <item>EUR</item>
+    </string-array>
+
+    <string name="etMonto">Ingrese el monto</string>
+    <string name="etTasa">Ingrese la Tasa</string>
+
+</resources>
